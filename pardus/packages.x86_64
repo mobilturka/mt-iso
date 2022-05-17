@@ -34,7 +34,9 @@ firmware-siano
 firmware-sof-signed
 firmware-ti-connectivity
 #desktop stuff
-pardus-xfce-desktop
+xfce4
+xfce4-terminal
+parole
 #live stuff
 pardus-installer
 lvm2
