@@ -37,6 +37,8 @@ firmware-ti-connectivity
 xfce4
 xfce4-terminal
 parole
+network-manager-gnome
+gvfs-backends
 #live stuff
 pardus-installer
 lvm2
