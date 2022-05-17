@@ -37,10 +37,17 @@ firmware-ti-connectivity
 xfce4
 xfce4-terminal
 parole
+file-roller
 network-manager-gnome
 gvfs-backends
-#live stuff
 pardus-installer
+pardus-dolunay-grub-theme 
+pardus-gtk-theme 
+pardus-icon-theme
+pardus-common-desktop 
+pardus-configure 
+pardus-xfce-settings 
+pardus-locales
 lvm2
 cryptsetup-initramfs
 pardus-boot-repair
