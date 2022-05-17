@@ -1,0 +1,42 @@
+#bootloader and gnupg
+grub-pc-bin
+grub-efi
+grub-efi-ia32-bin
+gnupg
+#live-boot stuff
+live-config
+live-boot
+user-setup
+#kernel
+#linux-image-amd64
+#firmwares
+zd1211-firmware
+firmware-linux
+firmware-netxen
+firmware-ralink
+firmware-realtek
+firmware-iwlwifi
+firmware-intelwimax
+firmware-ipw2x00
+firmware-atheros
+firmware-bnx2
+firmware-libertas
+bluez-firmware
+firmware-brcm80211
+firmware-amd-graphics
+firmware-cavium
+firmware-intel-sound
+firmware-misc-nonfree
+firmware-myricom
+firmware-qlogic
+firmware-samsung
+firmware-siano
+firmware-sof-signed
+firmware-ti-connectivity
+#desktop stuff
+pardus-xfce-desktop
+#live stuff
+pardus-installer
+lvm2
+cryptsetup-initramfs
+pardus-boot-repair
