@@ -35,19 +35,17 @@ firmware-sof-signed
 firmware-ti-connectivity
 #desktop stuff
 xfce4
-xfce4-terminal
-parole
-file-roller
-synaptic
+xfce4-goodies
 network-manager-gnome
+mugshot
+synaptic
 gvfs-backends
-pardus-common-desktop
-pardus-configure
-pardus-xfce-settings
+pardus-software
+pardus-about
+pardus-package-installer
 pardus-dolunay-grub-theme
 pardus-gtk-theme
 pardus-icon-theme
-pardus-backgrounds
 pardus-installer
 lvm2
 cryptsetup-initramfs
