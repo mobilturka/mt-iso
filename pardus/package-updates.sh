@@ -5,5 +5,5 @@ apt purge libreoffice-common -y
 apt install libreoffice-latest -y
 apt purge firefox-esr -y
 apt install librewolf -y
-apt purge gdebi packagekit xterm xfce4-sensors-plugin vlc xarchiver -y
+apt purge gdebi packagekit xterm xfce4-sensors-plugin vlc -y
 apt autoremove -y
