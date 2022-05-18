@@ -9,7 +9,7 @@ Browser: Librewolf
 İcon: Papirus
 
 
-Notlar: 
+*Notlar: 
 
 Bluetooth için: blueman paketi kurmak gerekmektedir. 
 
