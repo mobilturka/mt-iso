@@ -45,7 +45,7 @@ pardus-about
 pardus-package-installer
 pardus-dolunay-grub-theme
 pardus-gtk-theme
-pardus-icon-theme
+papirus-icon-theme
 pardus-installer
 lvm2
 cryptsetup-initramfs
