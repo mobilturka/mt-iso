@@ -7,6 +7,7 @@ Browser: Librewolf
 
 Not: 
 Bluetooth için: blueman paketi kurmalısınız
+
 Yazıcı ve tarayıcı için: printer-driver-all system-config-printer simple-scan veya xsane paketleri kurabilirsiniz
 
 
