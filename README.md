@@ -1,9 +1,13 @@
 # Pardus Xfce Lite (Teaiso)
 
 Pardus Xfce Lite Unofficial ISO. 
+
 Kernel: Liquorix
+
 Browser: Librewolf
-İco: Papirus
+
+İcon: Papirus
+
 
 Notlar: 
 
