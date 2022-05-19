@@ -37,6 +37,10 @@ firmware-ti-connectivity
 xfce4
 xfce4-goodies
 network-manager-gnome
+blueman
+printer-driver-all
+system-config-printer
+simple-scan
 mugshot
 synaptic
 gvfs-backends
