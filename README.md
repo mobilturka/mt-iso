@@ -1,6 +1,6 @@
-# Pardus Xfce Lite (Teaiso)
+Base: Debian/Pardus 
 
-Pardus Xfce Lite Unofficial ISO. 
+Desktop: Xfce
 
 Kernel: Liquorix
 
@@ -8,12 +8,10 @@ Browser: Librewolf
 
 İcon: Papirus
 
------------------------------------------------------
+------------------------------------------
 
-Notlar: 
+Notes:
 
-Bluetooth için: blueman paketi kurmak gerekmektedir. 
+For bluetooth: blueman package must be installed
 
-Yazıcı ve tarayıcı için: printer-driver-all system-config-printer simple-scan veya xsane paketleri kurabilirsiniz
-
-
+For printer and scanner: printer-driver-all system-config-printer simple-scan or xsane packages must be installed
