@@ -44,8 +44,13 @@ pardus-software
 pardus-about
 pardus-package-installer
 pardus-dolunay-grub-theme
+pardus-gtk-theme
+pardus-icon-theme
+pardus-backgrounds
 pardus-xfce-settings
-papirus-icon-theme
+pardus-common-desktop
+pardus-configure
+pardus-locales
 pardus-installer
 lvm2
 cryptsetup-initramfs
