@@ -1,4 +1,4 @@
-Pardus Xfce Unofficial Live ISO (Built with Teaiso)
+Pardus Lite Unofficial Live ISO (Built with Teaiso)
 
 Desktop: Xfce
 
