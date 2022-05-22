@@ -34,24 +34,21 @@ firmware-siano
 firmware-sof-signed
 firmware-ti-connectivity
 #desktop stuff
-xfce4
-xfce4-goodies
+gnome-core
+gnome-tweaks
 network-manager-gnome
 blueman
 printer-driver-all
 system-config-printer
 simple-scan
-mugshot
 synaptic
 gvfs-backends
 pardus-software
 pardus-about
 pardus-package-installer
 pardus-dolunay-grub-theme
-pardus-gtk-theme
-pardus-icon-theme
+papirus-icon-theme
 pardus-backgrounds
-pardus-xfce-settings
 pardus-common-desktop
 pardus-configure
 pardus-locales
