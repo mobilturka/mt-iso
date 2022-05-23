@@ -34,8 +34,6 @@ firmware-siano
 firmware-sof-signed
 firmware-ti-connectivity
 #desktop stuff
-firefox
-firefox-l10n-tr
 gnome-core
 gnome-tweaks
 network-manager-gnome
