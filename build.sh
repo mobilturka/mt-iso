@@ -5,6 +5,6 @@ sudo apt install git xorriso grub-pc-bin grub-efi mtools make python3 \
     dosfstools e2fsprogs squashfs-tools python3-yaml \
     gcc wget curl unzip xz-utils zstd debootstrap -y
 make && make install
-ln -s sid /usr/share/debootstrap/scripts/yirmibir || true
+ln -s yirmibir /usr/share/debootstrap/scripts/yirmibir || true
 cd ../
 mkteaiso --profile=./pardus --output=/output/ --debug 2>&1
