@@ -16,5 +16,5 @@ customize_airootfs_pre:
   - remove-java.sh
   - package-updates.sh
   - replace-kernel.sh
-repository: https://deb.debian.org/debian
+repository: https://depo.pardus.org.tr/pardus
 
