@@ -1,5 +1,7 @@
 Pardus Lite Unofficial Live ISO (Built with Teaiso)
 
-Desktop: Gnome
+Desktop: Xfce
 
 Kernel: Liquorix
+
+Browser: Librewolf
