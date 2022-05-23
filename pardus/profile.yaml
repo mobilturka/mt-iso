@@ -1,6 +1,6 @@
 name: debian
 distro: debian
-codename: sid
+codename: testing
 publisher: Debian GNU/Linux <https://debian.org>
 label: DEBIAN_TEAISO
 application_id: Unofficial Debian Linux Live/Rescue Media
