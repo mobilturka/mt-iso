@@ -12,9 +12,7 @@ packages:
  - packages.x86_64
 customize_airootfs_pre:
  - accept_nonfree.sh
- file_permissions:
- - /etc/shadow|0:0:400
-customize_airootfs:
+ customize_airootfs:
   - remove-java.sh
   - package-updates.sh
   - replace-kernel.sh
