@@ -36,7 +36,6 @@ firmware-ti-connectivity
 #desktop stuff
 lightdm
 lxde
-gnome-tweaks
 network-manager-gnome
 blueman
 printer-driver-all
