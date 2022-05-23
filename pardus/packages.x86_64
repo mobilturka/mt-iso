@@ -34,7 +34,8 @@ firmware-siano
 firmware-sof-signed
 firmware-ti-connectivity
 #desktop stuff
-gnome-core
+lightdm
+lxde
 gnome-tweaks
 network-manager-gnome
 blueman
@@ -44,6 +45,8 @@ simple-scan
 gvfs-backends
 pardus-software
 pardus-installer
+pardus-dolunay-grub-theme
+pardus-package-installer
 lvm2
 cryptsetup-initramfs
 pardus-boot-repair
