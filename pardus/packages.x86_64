@@ -43,6 +43,7 @@ system-config-printer
 simple-scan
 gvfs-backends
 pardus-software
+pardus-installer
 lvm2
 cryptsetup-initramfs
 pardus-boot-repair
