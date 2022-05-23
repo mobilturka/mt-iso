@@ -44,19 +44,6 @@ chroot debian-chroot apt-get install grub-pc-bin grub-efi-ia32-bin grub-efi -y
 chroot debian-chroot apt-get install live-config live-boot -y 
 chroot debian-chroot apt-get install xorg xinit -y
 
-#Firmware paketlerini kuralım (Kurulmasını istemediğiniz firmware paketini silebilirsiniz.)
-#chroot debian-chroot apt-get install -y atmel-firmware bluez-firmware dahdi-firmware-nonfree \
-  firmware-amd-graphics firmware-ath9k-htc firmware-atheros \
-  firmware-b43-installer firmware-b43legacy-installer firmware-bnx2 \
-  firmware-bnx2x firmware-brcm80211 firmware-cavium \
-  firmware-intel-sound firmware-intelwimax firmware-ipw2x00 \
-  firmware-ivtv firmware-iwlwifi firmware-libertas \
-  firmware-linux firmware-linux-free firmware-linux-nonfree \
-  firmware-misc-nonfree firmware-myricom firmware-netronome \
-  firmware-netxen firmware-qcom-soc firmware-qlogic \
-  firmware-realtek firmware-samsung firmware-siano \
-  firmware-sof-signed firmware-ti-connectivity firmware-zd1211 hdmi2usb-fx2-firmware
-
 chroot debian-chroot apt-get install xfce4 xfce4-goodies parole network-manager-gnome -y
 chroot debian-chroot apt-get install blueman gvfs-backends synaptic gdebi firefox firefox-l10n-tr -y
 
