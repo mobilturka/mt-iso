@@ -1,19 +1,16 @@
 name: debian
 distro: debian
-codename: sid
-publisher: Debian GNU/Linux <https://deb.debian.org>
+codename: testing
+publisher: Debian GNU/Linux <https://debian.org>
 label: DEBIAN_TEAISO
-application_id: Unofficial Debian Linux Live/Rescue Media
-airootfs_directory_pre: airootfs
-linux_args: quiet components splash username=debian hostname=debian
+application_id: Debian Linux Live/Rescue Media
+airootfs_directory: airootfs
+#iso_merge: iso_merge
 arch: x86_64
 grub_cfg: grub.cfg
 packages:
  - packages.x86_64
-customize_airootfs_pre:
- - accept_nonfree.sh
+file_permissions:
+ - /etc/shadow|0:0:400
 customize_airootfs:
-  - remove-java.sh
-  - package-updates.sh
-  - replace-kernel.sh
-repository: https://deb.debian.org/debian
+ - customize-airootfs.sh
