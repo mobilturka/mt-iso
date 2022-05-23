@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -e
 #Gerekli paketlerin kurulması
 apt-get install debootstrap xorriso squashfs-tools mtools grub-pc-bin grub-efi devscripts -y
 
