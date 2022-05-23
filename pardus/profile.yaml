@@ -16,4 +16,4 @@ customize_airootfs:
   - remove-java.sh
   - package-updates.sh
   - replace-kernel.sh
-repository: https://deb.debian.org.tr/debian
+repository: https://deb.debian.org/debian
