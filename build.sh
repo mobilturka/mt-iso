@@ -25,7 +25,7 @@ fi
 
 set -ex
 #### Chroot create
-mkdir debian-chroot || true
+mkdir chroot || true
 apt-get install debootstrap xorriso squashfs-tools mtools grub-pc-bin grub-efi devscripts -y
 
 #debian-chroot dosyası oluşturalım
