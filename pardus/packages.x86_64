@@ -145,7 +145,6 @@ docbook-xml
 dosfstools
 dpkg
 dpkg-dev
-drawing
 e2fsprogs
 eject
 emacsen-common
@@ -241,7 +240,6 @@ gnome-icon-theme
 gnome-keyring
 gnome-keyring-pkcs11
 gnome-orca
-gnome-packagekit
 gnome-packagekit-data
 gnome-system-tools
 gnome-themes-extra
@@ -384,9 +382,6 @@ p11-kit
 p11-kit-modules
 p7zip
 p7zip-full
-package-update-indicator
-packagekit
-packagekit-tools
 pardus-about
 pardus-backgrounds
 pardus-boot-repair
