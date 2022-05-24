@@ -43,6 +43,7 @@ printer-driver-all
 system-config-printer
 simple-scan
 gvfs-backends
+synaptic
 pardus-xfce-settings
 pardus-common-desktop
 pardus-configure
