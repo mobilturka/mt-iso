@@ -395,11 +395,9 @@ pardus-configure
 pardus-dolunay-grub-theme
 pardus-gtk-theme
 pardus-icon-theme
-pardus-image-writer
 pardus-installer
 pardus-locales
 pardus-package-installer
-pardus-power-manager
 pardus-software
 pardus-welcome
 pardus-xfce-settings
