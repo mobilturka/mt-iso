@@ -1,1 +1,1 @@
-apt-get install -t yirmibir-backports linux-image-amd64
+apt-get install -t yirmibir-backports linux-image-amd64 -y
