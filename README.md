@@ -1,8 +1,7 @@
-# Pardus 21.2 Lite - Özelleştirilmiş canlı ISO (Teaiso ile oluşturulmuştur.)
+## Pardus 21.2 Lite - Özelleştirilmiş canlı ISO (Teaiso ile oluşturulmuştur.)
 
-## Masaüstü: Xfce
+Masaüstü: Xfce
 
-## Kernel: Yirmibir Backports
+Kernel: Yirmibir Backports
 
-## Web tarayıcı: Librewolf
-
+Web tarayıcı: Librewolf
