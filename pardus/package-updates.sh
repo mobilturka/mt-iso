@@ -1,5 +1,9 @@
 apt update
-apt install librewolf -y
+apt install wget bzip2 zenity -y
 apt full-upgrade -y
-apt purge firefox-esr packagekit termit xterm icedtea-netx libreoffice-common -y
+apt purge libreoffice-common -y
+apt purge firefox-esr -y
+apt install librewolf -y
+apt install parole -y
+apt purge gdebi packagekit xterm xfce4-sensors-plugin vlc xarchiver -y
 apt autoremove -y
