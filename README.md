@@ -1,7 +1,8 @@
-Pardus Lite Unofficial Live ISO (Built with Teaiso)
+# Pardus 21.2 Lite - Özelleştirilmiş canlı ISO (Teaiso ile oluşturulmuştur.)
 
-Desktop: Xfce
+## Masaüstü: Xfce
 
-Kernel: Liquorix
+## Kernel: Yirmibir Backports
 
-Browser: Librewolf
+## Web tarayıcı: Librewolf
+
