@@ -4,6 +4,5 @@ apt full-upgrade -y
 apt purge libreoffice-common -y
 apt purge firefox-esr -y
 apt install librewolf -y
-apt install parole -y
 apt purge gdebi packagekit xterm xfce4-sensors-plugin vlc xarchiver -y
 apt autoremove -y
