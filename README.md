@@ -1,7 +1,5 @@
-## Pardus 21.2 Lite - Özelleştirilmiş canlı ISO (Teaiso ile oluşturulmuştur.)
+## Pardus 21 Lite - Özelleştirilmiş canlı günlük ISO (Teaiso ile oluşturulmuştur.)
 
 Masaüstü: Xfce
 
 Kernel: Yirmibir Backports
-
-Web tarayıcı: Librewolf
