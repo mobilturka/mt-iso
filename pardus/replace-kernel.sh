@@ -1,3 +1,3 @@
-echo "deb http://depo.pardus.org.tr/backports yirmibir-backports main contrib non-free" > /etc/apt/sources.list.d/yirmibir-backports.list
+echo "deb http://deb.debian.org/debian bullseye-backports main contrib non-free" > /etc/apt/sources.list.d/backports.list
 apt update -y
-apt install -t yirmibir-backports linux-image-amd64 -y
+apt install -t backports linux-image-amd64 -y
