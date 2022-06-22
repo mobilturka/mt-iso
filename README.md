@@ -2,4 +2,4 @@
 
 Masaüstü: Xfce
 
-Kernel: Yirmibir Backports
+Kernel: Debian Backports
