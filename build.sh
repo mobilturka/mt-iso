@@ -1,4 +1,5 @@
 #!/bin/bash
+
 git clone https://gitlab.com/tearch-linux/applications-and-tools/teaiso
 cd teaiso
 sudo apt install xorriso grub-pc-bin grub-efi mtools make python3 \
